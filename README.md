@@ -1,6 +1,6 @@
-# 재고조사 보고서 템플릿 (Inventory Count Report Template)
+# 재고조사 보고서 템플릿 (Inventory Check Report Template)
 
-**ActiveReportsJS Designer**로 제작된 재고조사 보고서(Inventory Count Report) 샘플 보고서 템플릿입니다.
+**ActiveReportsJS Designer**로 제작된 재고조사 보고서(Inventory Check Report) 샘플 보고서 템플릿입니다.
 `.rdlx-json` 형식으로 제공되며, 기업에서 보유 중인 제품·자재의 재고량을 파악하고 실제 재고와 장부상 재고를 비교하는 실무 문서 양식을 기반으로 설계되었습니다.
 
 > 재고조사 보고서는 기업에서 보유 중인 제품이나 자재의 현재 재고량을 파악하기 위한 문서로, 실제 재고와 장부상의 재고를 비교하여 오차를 확인하고 재고를 보다 효율적으로 관리할 수 있게 해줍니다.
